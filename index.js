@@ -65,3 +65,11 @@ app.listen(port, () => {
 // กด Send เพื่อส่งคำขอไปยังเซิร์ฟเวอร์
 // ถ้าทุกอย่างทำงานถูกต้อง คุณจะได้รับการตอบกลับที่บอกว่าข้อมูลถูกเพิ่มสำเร็จ
 // และคุณสามารถตรวจสอบฐานข้อมูล MySQL เพื่อดูว่าข้อมูลถูกเพิ่มเข้ามาหรือไม่
+
+// วิธีเชื่อม git
+// git init
+// git add .
+// git commit -m "Initial commit"
+// git branch -M main
+// git remote add origin https://github.com/Piinfany/Node.JS-My-SQL
+// git push -u origin main or  git push -u origin main --force    
